@@ -7,3 +7,4 @@ A new and cooler clock app
  - Simplied designs
  - First -> Focus on the Android App  -> publish by the end of the month
  - Second -> IOS -> Publish by the end of March
+ - Kotlin & Swift UI
